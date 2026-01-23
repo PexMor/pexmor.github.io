@@ -6,6 +6,7 @@ The modules or software I made:
 * [QR i/o](https://pexmor.github.io/qr-io) - read, show and share (websocket)
 * [Projector](https://pexmor.github.io/projector) - An experimental projector project
 * [Json2](https://pexmor.github.io/json2) - Naive and simple tool inspired by `xml2`
+* [BLE RC](https://github.com/PexMor/blerc) - Bluetooth Low Energy / Smart remote config for Raspi and beyond
 
 ## Reference repos
 
@@ -22,3 +23,4 @@ The modules or software I made:
 * [M.Y.js](https://pexmor.github.io/myjs/app/) - CRDT replicator in browser [Git Repo](https://github.com/PexMor/myjs)
 * [Auth Experiment](https://github.com/PexMor/hoa) - User authetication including Passkey
 * [Data Proxy](https://github.com/PexMor/pxbox) - A message broker API for universal M2M/M2H/H2M messaging
+* [FIO Emu](https://github.com/PexMor/fio-emu) - Docs and sub-set emulator for FioBank
